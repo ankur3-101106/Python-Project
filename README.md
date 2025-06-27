@@ -26,7 +26,7 @@ A Python-based typing speed test application inspired by Monkeytype, featuring r
 
 Run the typing test:
 ```
-python typing_test.py
+python type.py
 ```
 
 ### Controls
