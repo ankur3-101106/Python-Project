@@ -17,9 +17,9 @@ A Python-based typing speed test application inspired by Monkeytype, featuring r
 
 1. Install Python 3.7 or higher
 2. Install required dependencies:
-   \`\`\`bash
+   '''bash
    pip install pygame
-   \`\`\`
+   '''
 
 ## Usage
 
