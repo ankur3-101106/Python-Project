@@ -1,5 +1,5 @@
 # Python-Project
-# yping Speed Test
+# Typing Speed Test
 
 A Python-based typing speed test application inspired by Monkeytype, featuring real-time character checking, WPM calculation, accuracy tracking, and keypress sounds.
 
